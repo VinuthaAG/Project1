@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 public class Rectaangle {
  public static void main(String[] args) {
             int row=7;
